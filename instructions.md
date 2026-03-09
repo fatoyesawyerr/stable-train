@@ -1,4 +1,4 @@
-# AI Coding Agent Instructions
+# Sawyerr Structural Energy Training 
 
 ## Project Overview
 
@@ -98,3 +98,4 @@ Dataset ready!
 - This is a **data preparation stage**, not model training—no ML code here
 - VASP file hierarchy (1-6 subdirectories) represents independent MD/relaxation runs
 - The flat structure (not deep nesting) makes glob patterns simple and predictable
+
